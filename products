@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Lavender Scented Candle",
+    "description": "A relaxing candle made with natural lavender essential oil.",
+    "price": 15.99,
+    "image": "images/lavender-candle.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rose Perfume",
+    "description": "A fresh and captivating rose fragrance in a stylish bottle.",
+    "price": 29.99,
+    "image": "images/rose-perfume.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Citrus Room Spray",
+    "description": "Brighten your space with the energizing scent of citrus.",
+    "price": 12.49,
+    "image": "images/citrus-spray.jpg"
+  }
+]
